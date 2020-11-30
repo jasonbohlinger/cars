@@ -1,3 +1,11 @@
+## Identifying Information:
+1. Name: Jason Bohlinger
+2. Student ID: 2364725
+3. Email: jbohlinger@chapman.edu
+4. Class: CPSC298 - 01
+5. Assignment: cars
+
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
